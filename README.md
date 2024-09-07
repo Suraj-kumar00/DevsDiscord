@@ -1,4 +1,5 @@
 # DevsDiscord
+A discord Clone with full Constimzation and real-time communication.
 
 ![DevsDiscord]()
 
@@ -9,5 +10,9 @@
 ## Running application in minutes using Docker
 
 ## Installation on local machine 
+
+## Licence 
+
+## Support Via Staring the repository
 
 
