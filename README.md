@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 <div style="text-align: center;">
     <img src="public/DevsDiscordlogo.png" alt="Golang Logo" width="100" />
 </div>
 
 <h3 align="center">DevsDiscord</h3>
 
-![DevsDiscord poster]()
+![DevsDiscord poster](public/DevOps-DevDiscord.png)
 
 ## About DevsDiscord
 
@@ -30,23 +29,3 @@ DevsDiscord is built with the following technologies:
 ## Lincese
 
 ## Star the Repo 🤩
-=======
-# DevsDiscord
-A discord Clone with full Constimzation and real-time communication.
-
-![DevsDiscord]()
-
-## Tech Stack
-
-## Project Workflow 
-
-## Running application in minutes using Docker
-
-## Installation on local machine 
-
-## Licence 
-
-## Support Via Staring the repository
-
-
->>>>>>> d5057d57dc8a7f98a27c2efae66662228677f4fa
