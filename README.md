@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="public/DevsDiscordlogo.png" alt="Golang Logo" width="100" />
 </div>
 
