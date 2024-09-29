@@ -26,6 +26,6 @@ DevsDiscord is built with the following technologies:
 
 ![CI/CD Pipeline]()
 
-## Lincese
+## License
 
 ## Star the Repo 🤩
